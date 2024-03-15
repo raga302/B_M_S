@@ -1,0 +1,72 @@
+.main_heading{
+    background-color:rgba(224, 173, 238, 0.644);
+   
+    border: 1px solid black;
+}
+
+.MONEY_HEADING h1{
+    border-bottom: 1PX SOLID black;
+    border-radius: 1rem;
+}
+
+
+@media (max-width: 992px) {
+
+    .transfer_Btn{
+        width: 20vw !important;
+        font-size: 3vw !important;
+    }
+    .mainHomeDiv h1{
+        font-size: 3vw !important;
+    }
+    
+}
+
+
+
+@media (max-width: 768px) {
+
+    .transfer_Btn{
+        width: 20vw !important;
+        font-size: 3vw !important;
+    }
+    .mainHomeDiv h1{
+        font-size: 3vw !important;
+    }
+    
+}
+
+@media (max-width: 576px) {
+   
+    .transfer_Btn{
+        width: 25vw !important;
+        font-size: 3.5vw !important;
+    }
+    .mainHomeDiv h1{
+        font-size: 4vw !important;
+        margin-top: 0.2rem;
+    }
+    
+    
+}
+
+
+@media (max-width: 475px) {
+   
+    .transfer_Btn{
+        width: 30vw !important;
+        font-size: 4vw !important;
+    }
+
+    .mainHomeDiv h1{
+        font-size: 5vw !important;
+        margin-top: 0.2rem;
+    }
+    .MONEY_HEADING h1{
+        font-size: 6vw !important;
+        padding: 2vw !important;
+        margin: 0 !important;
+    }
+  
+    
+}

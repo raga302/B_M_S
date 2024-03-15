@@ -1,0 +1,13 @@
+@media (max-width: 450px) {
+    .submit_Btn{
+        width: 30vw !important;
+        font-size: 5vw !important;
+    }
+    label{
+        font-size: 3.5vw !important;
+    }
+    .heading{
+        font-size: 5.8vw !important;
+    }
+
+}

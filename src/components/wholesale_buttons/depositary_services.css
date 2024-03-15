@@ -1,0 +1,57 @@
+@media (max-width: 992px) {
+   
+   
+    .custodial_Services_Heading{
+        font-size: 3vw !important;
+        border-bottom: 0.5vw solid black !important;
+        padding-bottom: 2vw !important;
+       }
+   
+}
+
+
+@media (max-width: 768px) {
+   
+   
+    .needHelpDiv{
+        margin-top: 5vw !important;
+    }
+    
+   
+}
+
+@media (max-width: 568px) {
+   
+   
+    .custodial_Services_Heading{
+        font-size: 5vw !important;
+        border-bottom: 0.5vw solid black !important;
+        padding-bottom: 2vw !important;
+       }
+        .needHelpDiv{
+            margin-top: 5vw !important;
+        }
+        .depositary_services_Main_Box{
+            margin-top: 5vw !important;
+        }
+        
+    
+   
+}
+
+@media (max-width: 415px) {
+   
+    .custodial_Services_Heading{
+     font-size: 7vw !important;
+     border-bottom: 0.5vw solid black !important;
+     padding-bottom: 2vw !important;
+    }
+     .needHelpDiv{
+         margin-top: 5vw !important;
+     }
+     .depositary_services_Main_Box{
+        margin-top: 5vw !important;
+    }
+    
+    
+ }

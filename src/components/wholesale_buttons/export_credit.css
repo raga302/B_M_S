@@ -1,0 +1,43 @@
+.check{
+   
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    background-color: whitesmoke;
+}
+
+
+
+
+@media (max-width: 450px) {
+   
+    .spanTag{
+        font-size: 3vw !important;
+    }
+    .needHelpDiv{
+        margin-top: 5vw !important;
+    }
+    .export_credit_Main_Box{
+        margin-top: 5vw !important;
+    }
+   
+}
+
+@media (max-width: 768px) {
+   
+    .spanTag{
+        font-size: 2vw !important;
+    }
+    .needHelpDiv{
+        margin-top: 5vw !important;
+    }
+    .export_credit_Main_Box{
+        margin-top: 5vw !important;
+    }
+   
+}
+
+

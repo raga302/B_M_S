@@ -1,0 +1,28 @@
+@media (max-width: 500px) {
+    .submit_Btn{
+        width: 30vw !important;
+        font-size: 5vw !important;
+    }
+    label{
+        font-size: 3.5vw !important;
+    }
+    .heading{
+        font-size: 5vw !important;
+    }
+
+}
+
+
+@media (max-width: 400px) {
+    .submit_Btn{
+        width: 30vw !important;
+        font-size: 5vw !important;
+    }
+    label{
+        font-size: 3.5vw !important;
+    }
+    .heading{
+        font-size: 5.3vw !important;
+    }
+
+}

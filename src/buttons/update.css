@@ -1,0 +1,58 @@
+
+@media (max-width: 992px) {
+    .update_profile button{
+        width: 15vw !important;
+    }
+    .change_Btn{
+        font-size: 2.5vw !important;
+    }
+   
+}
+
+
+
+@media (max-width: 768px) {
+
+    
+}
+
+@media (max-width: 576px) {
+   
+    .update_profile button{
+        width: 20vw !important;
+    }
+    .change_Btn{
+        font-size: 3vw !important;
+    }
+    
+}
+
+
+@media (max-width: 475px) {
+   
+    .update_profile button{
+        width: 20vw !important;
+    }
+    .change_Btn{
+        font-size: 3.5vw !important;
+    }
+    
+}
+
+
+@media (max-width: 415px) {
+   
+    .update_profile button{
+        width: 25vw !important;
+    }
+    .change_Btn{
+        font-size: 4vw !important;
+    }
+    .update_profile h1{
+        font-size: 5.5vw !important;
+    }
+    .main_Button_box div{
+        margin-top: 5vw !important;
+    }
+    
+}

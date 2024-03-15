@@ -1,0 +1,17 @@
+
+
+@media (max-width: 468px) {
+   
+    .project_apraisal_Heading{
+     font-size: 5vw !important;
+     border-bottom: 0.5vw solid black !important;
+     padding-bottom: 2vw !important;
+    }
+     .needHelpDiv{
+         margin-top: 5vw !important;
+     }
+     .sgl_Maintenence_Main_Box{
+         margin-top: 5vw !important;
+     }
+    
+ }

@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: #b79cd9;
+    background-color: #acb7ae;
+    background-color:#c2dde6;
+    position: relative;
+}

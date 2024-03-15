@@ -1,0 +1,112 @@
+.mainHomeDiv{
+    background-color: #004c8F;
+}
+
+.imgDiv{
+    width: 100%;
+    
+}
+
+.option{
+    border-bottom: 2px solid #ED232A;
+    font-size: 3rem;
+    padding-bottom: 0.5rem;
+}
+
+.btn_link{
+    font-size: 1.5vw;
+}
+
+.last_image_div img{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.btn-success{
+    transition: all 0.5s ease;
+}
+.btn-success:hover{
+    scale: 1.1;
+}
+
+@media (max-width: 992px) {
+   
+    
+    .mainHomeDiv{
+      
+        background-color: brown;
+    }
+
+    .btn_link{
+        font-size: 1.8vw !important;
+    }
+
+   
+    .mainHomeDiv .headingDiv h1{
+        font-size: 3vw;
+    }
+    .option{
+        font-size: 4vw !important;
+    }
+}
+
+
+@media (max-width: 768px) {
+   
+    .mainHomeDiv .headingDiv h1{
+        font-size: 3vw !important;
+    }
+
+    .btn_link{
+        font-size: 1.8vw !important;
+    }
+    
+    .option{
+        font-size: 4vw !important;
+    }
+}
+
+@media (max-width: 576px) {
+   
+    
+    .mainHomeDiv{
+        
+        background-color: #004c8F;
+    }
+    .option{
+        font-size: 5vw !important;
+    }
+    .btn_link{
+        font-size: 2.2vw !important;
+    }
+
+    .mainHomeDiv .headingDiv h1{
+        font-size: 4vw !important;
+        margin-top: 0.2rem;
+    }
+}
+
+
+@media (max-width: 475px) {
+   
+    
+   
+    .btn_link{
+        font-size: 4vw !important;
+    }
+    .btn{
+        width: 25vw !important;
+    }
+    .button_container_fluid{
+        margin-top: 0 !important;
+    }
+    .mainHomeDiv .headingDiv h1{
+        font-size: 5vw !important;
+        margin-top: 0.2rem;
+    }
+
+    
+}
+
+

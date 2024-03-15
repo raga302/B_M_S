@@ -1,0 +1,165 @@
+.btnDiv {
+    border-bottom: 2px solid black;
+
+
+}
+
+
+.card img{
+    width: 100%;
+    height: 150px;
+}
+
+
+
+
+@media (max-width: 992px) {
+    .hading_Main_Box {
+        margin-top: 3vw !important;
+    }
+
+    .heading_Btn {
+        width: 30vw !important;
+    }
+
+    .heading_Btn h3 {
+        font-size: 4w !important;
+    }
+
+    .card-title {
+        font-size: 2vw !important;
+    }
+
+    .card-text {
+        font-size: 1.6vw !important;
+    }
+
+    .card-body .btn {
+        width: 11vw !important;
+        font-size: 1.5vw !important;
+    }
+
+
+}
+
+
+
+@media (max-width: 765px) {
+    .hading_Main_Box {
+        margin-top: 3vw !important;
+    }
+
+    .heading_Btn {
+        width: 30vw !important;
+    }
+
+    .heading_Btn h3 {
+        font-size: 4w !important;
+    }
+
+    .card-title {
+        font-size: 3.5vw !important;
+    }
+
+    .card-text {
+        font-size: 2vw !important;
+    }
+
+    .card-body .btn {
+        width: 20vw !important;
+        font-size: 3vw !important;
+    }
+    .card_Margin{
+        margin-top: 3vw !important;
+    }
+
+}
+
+@media (max-width: 576px) {
+    .heading_Btn {
+        width: 30vw !important;
+    }
+
+    .heading_Btn h3 {
+        font-size: 4w !important;
+    }
+
+    .card-title {
+        font-size: 4vw !important;
+    }
+
+    .card-text {
+        font-size: 3vw !important;
+    }
+
+    .card-body .btn {
+        width: 20vw !important;
+        font-size: 3vw !important;
+    }
+    .card_Margin{
+        margin-top: 3vw !important;
+    }
+
+
+
+}
+
+
+@media (max-width: 475px) {
+
+    .heading_Btn {
+        width: 30vw !important;
+    }
+
+    .heading_Btn h3 {
+        font-size: 5vw !important;
+    }
+
+    .card-title {
+        font-size: 4.3vw !important;
+    }
+
+    .card-text {
+        font-size: 3.3vw !important;
+    }
+
+    .card-body .btn {
+        width: 25vw !important;
+        font-size: 3.5vw !important;
+    }
+    .card_Margin{
+        margin-top: 3vw !important;
+    }
+
+
+}
+
+
+@media (max-width: 415px) {
+
+    .heading_Btn {
+        width: 30vw !important;
+    }
+
+    .heading_Btn h3 {
+        font-size: 4vw !important;
+    }
+
+    .card-title {
+        font-size: 4.3vw !important;
+    }
+
+    .card-text {
+        font-size: 3.3vw !important;
+    }
+
+    .card-body .btn {
+        width: 25vw !important;
+        font-size: 3.5vw !important;
+    }
+    .card_Margin{
+        margin-top: 3vw !important;
+    }
+
+
+}

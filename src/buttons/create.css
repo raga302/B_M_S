@@ -1,0 +1,18 @@
+.main{
+    background-color: rgb(161, 165, 162);
+}
+
+
+
+
+
+@media (max-width: 400px) {
+    .create_Btn_Main_Div{
+        margin-top: 5vw !important;
+    }
+    .create_Btn_Main_Div h1{
+        font-size: 6vw !important;
+    }
+
+
+}
